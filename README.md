@@ -52,9 +52,6 @@ Como elemento adicional, hemos realizado un compendio activo de conceptos y extr
 * [Coexistencia de modelos (Coliving, cohabitación)](https://github.com/d-vops/xAdEv/wiki/Coexistencia-de-Modelos-y-Estructuras:-tipos-y-aprendizajes)
 * [Onboarding de Personas: Temores y Problemas comunes](https://github.com/d-vops/xAdEv/wiki/Onboarding-de-Personas:-temores-y-problemas-comunes-en-la-transici%C3%B3n)
 ---
-## Métricas de Evolución
-* [Ensayo: ¿Para qué y cómo medir la evolución de los equipos y la organización?](https://github.com/d-vops/xAdEv/wiki/Ensayo-sobre-M%C3%A9tricas-de-Evoluci%C3%B3n-Organizacional)
----
 ## Disrupciones y Fuentes
 * [Irritaciones Constructivas: Extractos de pensamientos y escritos de autores que inspiran](https://github.com/d-vops/xAdEv/wiki/Irritaciones-Constructivas:-Extractos-de-pensamientos-y-escritos-de-autores-que-inspiran)
 * [Referencias Bibliográficas](https://github.com/d-vops/xAdEv/wiki/Referencias-Bibliogr%C3%A1ficas)
@@ -70,8 +67,10 @@ Como elemento adicional, hemos realizado un compendio activo de conceptos y extr
 * [Lista Completa de Videos](https://github.com/d-vops/xAdEv/wiki/Videos-de-Referencia:-Lista-Completa)
 * [Contextos: Complicado y Complejo](https://youtu.be/L9V19f-zy20)
 ---
-## Ejemplos de Adopción
+## Aprendizajes de adopción, casos y ejemplos
 * [Ciclo anual de cuatro trimestres](https://github.com/d-vops/xAdEv/wiki/Ejemplo:-Ciclo-anual-de-cuatro-trimestres-de-evoluci%C3%B3n-en-una-Organizaci%C3%B3n)
 * [Asignación de Roles en Equipos (UnFix approach)](https://github.com/d-vops/xAdEv/wiki/Asignaci%C3%B3n-de-roles-(UnFix-approach))
 * [Patrones y Anti-Patrones](https://github.com/d-vops/xAdEv/wiki/Patrones-y-Anti-Patrones-de-adopci%C3%B3n-de-agilidad-empresarial)
 * [FAQ (Preguntas comunes de adoptantes)](https://github.com/d-vops/xAdEv/wiki/FAQ-(preguntas-comunes-de-adoptantes))
+* [Ensayo: Una vez que estamos operando ¿Para qué y cómo medir el desempeño de los equipos y la organización?](https://github.com/d-vops/xAdEv/wiki/Ensayo-sobre-M%C3%A9tricas-de-Evoluci%C3%B3n-Organizacional)
+
