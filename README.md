@@ -32,7 +32,7 @@ Como elemento adicional, hemos realizado un compendio activo de conceptos y extr
 ## Ciclos de Retroalimentación: Centro y Periferia
 * [Ciclos de Retroalimentación: Centro y Periferia](https://github.com/d-vops/xAdEv/wiki/Ciclos-de-Retroalimentaci%C3%B3n:-Centro-y-Periferia)
 * [Ciclos de Centro: Explorar - Adaptar - Evolucionar](https://github.com/d-vops/xAdEv/wiki/Ciclos-de-Centro:-Explorar---Adaptar---Evolucionar)
-* [Ciclos de Centro: Meta Ciclo](https://github.com/d-vops/xAdEv/wiki/Ciclos-de-Centro:-Meta-Ciclo)
+* [Ciclos de Centro: Meta Ciclos](https://github.com/d-vops/xAdEv/wiki/Ciclos-de-Centro:-Meta-Ciclos)
 ---
 ## Exploración, Adaptación y Evolución
 * [Ciclo de Exploración: Open Spaces de Exploración](https://github.com/d-vops/xAdEv/wiki/Ciclo-de-Exploraci%C3%B3n:-Espacios-Abiertos-de-Exploraci%C3%B3n)
